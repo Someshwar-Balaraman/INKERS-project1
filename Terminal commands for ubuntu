@@ -1,0 +1,7 @@
+g++ project1.cpp -o project1
+
+./project1
+
+Paths:
+
+/home/someshwar/Desktop/project1/hello/test
